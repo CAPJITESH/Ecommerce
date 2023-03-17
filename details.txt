@@ -1,0 +1,4 @@
+1 This project is implemented by using django,sqllite for backend and HTML/CSS.
+2 Its is an ecommerce website which has different sections for the the different products.
+3 The products can be filtered by company and product price as per the user.
+4 The website will recommned the user the products based on the user's choice.
